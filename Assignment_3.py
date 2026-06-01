@@ -63,7 +63,7 @@ for prod_id, details in inventory.items():
     print(f"Product ID: {prod_id} , Name: {details['name']} , Remaining Stock: {details['stock']}")
 
 
-
+    print("Thank you for your help")
 
 
 
