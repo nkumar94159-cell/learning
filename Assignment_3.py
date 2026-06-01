@@ -64,8 +64,7 @@ for prod_id, details in inventory.items():
 
 
 
-  \
-  
+
 
 
     
